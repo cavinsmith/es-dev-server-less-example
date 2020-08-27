@@ -1,0 +1,7 @@
+:host {
+    background: yellow;
+    display: block;
+  }
+  .text {
+    color: blue;
+  }
